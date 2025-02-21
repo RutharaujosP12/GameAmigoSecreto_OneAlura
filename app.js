@@ -1,17 +1,16 @@
 // Array para armazenar os amigos
-let friends = [];
+let amigos= [];
 
 function adicionarAmigo() {
     let input = document.getElementById("amigo");
     let nome = input.value.trim();
-
 
     if (nome === "") {
         alert("Por favor, insira um nome.");
         return;
     }
 
-    // Adiciona um nome a lista
+    // Adiciona um nome à lista
     amigos.push(nome);
 
     // Atualiza a lista na tela
@@ -35,7 +34,7 @@ function atualizarLista() {
 function sortearAmigo() {
     let resultado = document.getElementById("resultado");
 
-    // Verificação se há amigos na lista para sortear!
+    // Verificação se há amigos na lista para sortear
     if (amigos.length === 0) {
         resultado.innerHTML = "<li>Nenhum amigo disponível para sorteio.</li>";
         return;
