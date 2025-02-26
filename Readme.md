@@ -22,7 +22,7 @@ logo abaixo do campo.
 2️⃣ - Após concluir a sua lista de amigos incluídos no sorteio, o usuário deverá clicar em "𝙎𝙤𝙧𝙩𝙚𝙖𝙧", e o nome sorteado será exibido na tela
 em poucos minutos. 
 
-:warning: A APLICAÇÃO NÃO TEM UM LIMITE DEFINIDO DE PESSOAS QUE PODEM SER ADICIONADAS PARA SER SORTEADAS!
+:warning: <strong>A APLICAÇÃO NÃO TEM UM LIMITE DEFINIDO DE PESSOAS QUE PODEM SER ADICIONADAS PARA SER SORTEADAS!</strong>
 
 
 <h4 align="left"> 
